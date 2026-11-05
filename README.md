@@ -169,6 +169,9 @@ I design front-end systems for a performance-marketing platform and work full-st
 <a href="https://github.com/tan-interspace/mcp-setup-gemini">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tan-interspace&repo=mcp-setup-gemini&theme=tokyonight&hide_border=true" alt="mcp-setup-gemini" />
 </a>
+<a href="https://github.com/tan-interspace/wordpress-mcp-python">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tan-interspace&repo=wordpress-mcp-python&theme=tokyonight&hide_border=true" alt="wordpress-mcp-python" />
+</a>
 
 </div>
 
@@ -177,11 +180,33 @@ I design front-end systems for a performance-marketing platform and work full-st
 
 <br />
 
+**Front-End**
+
 - [100-days-of-angular](https://github.com/tan-interspace/100-days-of-angular): Angular learning series from the Angular Vietnam community
 - [ng-beforeunload-sample](https://github.com/tan-interspace/ng-beforeunload-sample): Handling unsaved changes with `beforeunload` and `CanDeactivate`
 - [ng2-google-charts](https://github.com/tan-interspace/ng2-google-charts): Angular Google Charts module
 - [metronic-admin](https://github.com/tan-interspace/metronic-admin): Admin template reference
+- [next-ai-draw-io](https://github.com/tan-interspace/next-ai-draw-io): Next.js app generating draw.io diagrams with AI
+
+**Back-End & Platform**
+
+- [microservices](https://github.com/tan-interspace/microservices): Microservices with Spring, Docker and Kubernetes
+- [github-mcp-server](https://github.com/tan-interspace/github-mcp-server): GitHub's official MCP server, written in Go
+- [bedrock-claude-proxy](https://github.com/tan-interspace/bedrock-claude-proxy): Go proxy translating Anthropic API calls to AWS Bedrock
+- [agentapi](https://github.com/tan-interspace/agentapi): Go HTTP API for driving coding agents
+- [backstage](https://github.com/tan-interspace/backstage): Developer portal framework
 - [swagger-ui-fork](https://github.com/tan-interspace/swagger-ui-fork): Swagger UI customization experiments
+
+**AI, RAG & MCP**
+
+- [claude-flow](https://github.com/tan-interspace/claude-flow): Multi-agent orchestration for Claude Code
+- [code-context](https://github.com/tan-interspace/code-context): MCP server for semantic code search
+- [Figma-Context-MCP](https://github.com/tan-interspace/Figma-Context-MCP): MCP server exposing Figma layouts to coding agents
+- [inspector](https://github.com/tan-interspace/inspector): Visual testing tool for MCP servers
+- [ragflow](https://github.com/tan-interspace/ragflow): RAG engine based on deep document understanding
+- [milvus](https://github.com/tan-interspace/milvus): Cloud-native vector database in Go
+- [adk-python](https://github.com/tan-interspace/adk-python): Google's Agent Development Kit for Python
+- [A2A](https://github.com/tan-interspace/A2A): Agent-to-Agent interoperability protocol
 
 </details>
 
