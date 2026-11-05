@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tan%20Nguyen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Architect%20%E2%80%A2%20Interspace%20(ACCESSTRADE)&descSize=18&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/tan-interspace">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CE0&center=true&vCenter=true&width=640&lines=Building+scalable+front-end+architectures;Angular+%7C+TypeScript+%7C+Design+Systems;Exploring+AI+tooling+%26+MCP+workflows;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CE0&center=true&vCenter=true&width=700&lines=Front-End+Architect+%7C+Full-Stack+Engineer;Angular+%7C+React+%7C+Vue+%7C+TypeScript;Java+%7C+Go+%7C+Python+on+AWS+%26+Kubernetes;Ad+tracking%2C+cashback+%26+affiliate+platforms;AI+tooling%3A+Claude+%7C+Gemini+%7C+MCP;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <p>
