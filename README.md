@@ -189,9 +189,10 @@ I design front-end systems for a performance-marketing platform and work full-st
 
 ## 🌱 Currently
 
-- 🔭 Leading front-end architecture initiatives at Interspace
+- 🔭 Leading front-end architecture initiatives at Interspace while shipping full-stack features across tracking, cashback and batch systems
 - 🌱 Leveling up leadership, mentoring and engineering practices
-- 🤝 Open to discussing **Angular architecture, front-end best practices and AI-assisted development**
+- 🚀 Deepening Go and Java back-end skills, observability (OpenTelemetry) and Kubernetes operations
+- 🤝 Open to discussing **front-end architecture, full-stack system design and AI-assisted development**
 
 ---
 
