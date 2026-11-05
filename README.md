@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tan%20Nguyen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Architect%20%E2%80%A2%20Interspace%20(ACCESSTRADE)&descSize=18&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tan%20Nguyen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Architect%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Interspace%20(ACCESSTRADE)&descSize=18&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/tan-interspace">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CE0&center=true&vCenter=true&width=700&lines=Front-End+Architect+%7C+Full-Stack+Engineer;Angular+%7C+React+%7C+Vue+%7C+TypeScript;Java+%7C+Go+%7C+Python+on+AWS+%26+Kubernetes;Ad+tracking%2C+cashback+%26+affiliate+platforms;AI+tooling%3A+Claude+%7C+Gemini+%7C+MCP;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
@@ -19,12 +19,12 @@
 ## 👋 About Me
 
 I'm **Tan**, a **Front-End Architect at [Interspace Co., Ltd](https://www.interspace.ne.jp/global/)** (ACCESSTRADE), based in Ho Chi Minh City.
-I design and build front-end systems for a performance-marketing platform, with a focus on **maintainable architecture, developer experience and team growth**.
+I design front-end systems for a performance-marketing platform and work full-stack across its tracking, cashback and batch services, with a focus on **maintainable architecture, developer experience and team growth**.
 
-- 🏗️ Designing front-end architecture & shared component libraries
+- 🏗️ Designing front-end architecture and shared UI across Angular, React and Vue apps
+- ⚙️ Building back-end services and data pipelines in Java, Go and Python on AWS & Kubernetes
 - 🧭 Growing as a technical leader: mentoring, code review, engineering standards
 - 🤖 Integrating AI tools (MCP, Gemini, Claude) into everyday dev workflows
-- 📚 Always learning: currently deepening my skills in modern Angular and tooling
 
 ---
 
