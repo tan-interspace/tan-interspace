@@ -32,22 +32,18 @@ I design and build front-end systems for a performance-marketing platform, with 
 
 > Most of my work at Interspace lives in private repositories. Here's a high-level view.
 
-| Project | Description | Tech |
+| Area | What I do | Main languages |
 |---|---|---|
-| 🏢 **ACCESSTRADE Publisher & Influencer Dashboards** | Front-end architecture, NgRx state, shared UI and coding standards for the affiliate platform's publisher, influencer and internal IS tools | `Angular` `NgRx` `RxJS` `Playwright` |
-| ⚡ **IS Tools NextGen** | Migrating internal operations tooling from Angular to a modern React stack | `Next.js` `React 19` `Tailwind` `Radix UI` |
-| 💰 **Cashback Platform (MoneyCore)** | Member web, ops console, publisher portal and in-app webview for the cashback product | `Spring Boot` `Nuxt 4` `Vue 3` `PostgreSQL` `Redis` |
-| 🎯 **Click / Conversion / Impression Tracking** | High-throughput Go tracking services with DynamoDB, log shipping to S3/SQS and OpenTelemetry tracing | `Go` `Gin` `DynamoDB` `OpenTelemetry` |
-| 🔁 **Batch Pipelines (taekkyeon)** | 100+ Spring Batch jobs: log loaders, closures, payment and reward calculators, DynamoDB/Elasticsearch sync | `Java 17` `Spring Batch` `Oracle` `Redshift` `S3/SQS` |
-| 🧱 **Core Platform APIs (gurkha / hussar / machete)** | Advertiser, publisher and staff APIs behind the ACCESSTRADE platform | `Spring Boot` `MyBatis` `Oracle` `Kafka` |
-| 📝 **Pay-Per-Post** | Influencer content marketplace with a Go backend and a React front-end | `Next.js` `Go` `GORM` `PostgreSQL` |
-| 🛡️ **Click Flood Detection API** | Fraud/anomaly detection service built with hexagonal architecture | `FastAPI` `SQLAlchemy` `Pydantic` |
-| 📱 **KOC App** | Mobile app for KOC/influencer publishers | `Flutter` `BLoC` `Firebase` |
-| 🧪 **E2E Test Automation** | BDD-style end-to-end suites with reporting across the dashboards | `Playwright` `playwright-bdd` `Allure` |
-| ☸️ **DevOps Deployments** | Helm charts, GitOps and observability stack for the platform | `Kubernetes` `Helm` `Argo CD` `Traefik` `Grafana` |
-| 🤖 **AI Tooling & MCP Servers** | Internal MCP servers (DB / CSV query), GraphRAG smart-matching, AI chat assistant and AI-SDLC starters | `Python` `MCP` `LightRAG` `Vue 3` `Claude` |
-| 🔧 [**mcp-setup-gemini**](https://github.com/tan-interspace/mcp-setup-gemini) | Gemini CLI setup with a GitHub MCP server configuration | `Shell` `MCP` `Gemini` |
-
+| 🏢 **Affiliate marketing dashboards** | Front-end architecture and shared UI for publisher, influencer and internal operations portals | `TypeScript` |
+| ⚡ **Front-end modernization** | Migrating legacy Angular tooling to a modern React-based stack | `TypeScript` |
+| 💰 **Cashback & rewards platform** | Member-facing web, operations console and in-app webview | `Java` `TypeScript` |
+| 🎯 **Ad tracking systems** | High-throughput click, conversion and impression tracking services | `Go` |
+| 🔁 **Data & batch processing** | Large-scale batch pipelines for reporting, closures, payments and rewards | `Java` |
+| 🧱 **Core platform APIs** | Advertiser, publisher and staff APIs behind the affiliate platform | `Java` |
+| 📝 **Influencer content marketplace** | Pay-per-post product connecting brands with content creators | `Go` `TypeScript` |
+| 📱 **Mobile app for creators** | Companion mobile app for KOC / influencer publishers | `Dart` |
+| 🤖 **AI tooling** | Internal MCP servers, GraphRAG matching, AI assistants and AI-assisted SDLC workflows | `Python` `TypeScript` |
+| 🔧 [**mcp-setup-gemini**](https://github.com/tan-interspace/mcp-setup-gemini) | Gemini CLI setup with a GitHub MCP server configuration | `Shell` |
 
 ---
 
